@@ -1,3 +1,3 @@
 if (true) {
-  const text = 'Hola Mundo';
+  const text = 'Hola Mundos';
 }
